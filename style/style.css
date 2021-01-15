@@ -1,0 +1,77 @@
+#span1,#stats
+{
+    font-size: 18px;
+    font-family: 'Kumbh Sans', 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+}
+#Place,#normal
+{
+    font-family:'Kumbh Sans', 'Times New Roman', Times, serif;
+    font-weight:400;
+    font-size: 13px;
+    color: hsl(0, 0%, 59%) ;
+  
+}
+#span2
+{
+    font-family:'Kumbh Sans', 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: hsl(0, 0%, 59%);
+}
+img
+{
+    
+    border-radius:50%;
+    padding: 5px;
+    background-color: white;
+
+    
+   
+}
+td
+{
+  padding-right: 20px;
+  text-align: center;
+}
+body
+{
+    background-color:hsl(185, 75%, 39%);
+    margin-top:220px;
+    margin-left:620px;
+}
+.container
+{
+    
+    border: 0.5px solid rgba(0, 0, 0, 0.219);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    text-align: center;
+    height: 60px;
+    padding-top:70px;
+    width: 300px;
+    text-align:center;
+    background-color:darkslategrey;
+}
+.non
+{
+    text-align: center;
+    border: 0.5px solid rgba(0, 0, 0, 0.219);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    width:300px;
+    height:200px;
+    background-color: whitesmoke;
+    
+    
+}
+table
+{
+ 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
